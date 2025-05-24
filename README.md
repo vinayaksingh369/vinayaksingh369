@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm vinayak Singh</h1>
+<h1 align="center">[Hi 👋, I'm vinayak Singh](https://vinayaksingh369.github.io/vinayak_resume1/)</h1>
 <h3 align="center">A passionate frontend developer from India i am always to way of new thing to learn</h3>
 <p align="center"><img alt="coding" width="400" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"/></p>
 
