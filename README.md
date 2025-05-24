@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm vinayak Singh</h1>
 <h1 align="center">
   <a href="https://vinayaksingh369.github.io/vinayak_resume1/" target="_blank">
     Hi 👋, I'm Vinayak Singh
