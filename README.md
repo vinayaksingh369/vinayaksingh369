@@ -3,7 +3,6 @@
     Hi 👋, I'm Vinayak Singh
   </a>
 </h1>
-
 <h3 align="center">A passionate frontend developer from India. I am always on the path of learning new things 🚀</h3>
 
 <p align="center">
