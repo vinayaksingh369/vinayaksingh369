@@ -4,7 +4,6 @@
   </a>
 </h1>
 <h3 align="center">A passionate frontend developer from India. I am always on the path of learning new things 🚀</h3>
-
 <p align="center">
   <img alt="coding" width="400" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif"/>
 </p>
